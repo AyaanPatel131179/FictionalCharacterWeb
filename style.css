@@ -1,0 +1,38 @@
+/* Unique class for dancing-script font styling */
+.dancing-script-custom {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400; /* Example weight, can be changed as needed */
+    font-style: normal;
+}
+
+/* Class for part1 with larger font size and centered text */
+.part1 {
+    font-family: "Dancing Script", cursive;
+    text-align: center;
+    font-size: 150px;
+}
+body {
+    background: linear-gradient(to right, #0C83C9, white);
+    height: 100vh; /* Ensure the gradient covers the entire height of the page */
+    margin: 0; /* Remove default margins */
+    font-family: Arial, sans-serif; /* Optional: Add a default font */
+    color: #333; /* Optional: Set default text color */
+}
+.align{
+ text-align: center;
+ width: 100%;
+}
+.video{
+text-align: center;
+}
+.fight{
+    text-align: center;
+}
+.block{
+    display: block;
+    padding: 10px; /* Optional: adds some padding for better visual separation */
+    background-color: lightblue; /* Optional: gives the link a background color */
+    margin-bottom: 10px;
+}
+

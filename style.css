@@ -35,4 +35,7 @@ text-align: center;
     background-color: lightblue; /* Optional: gives the link a background color */
     margin-bottom: 10px;
 }
+.description {
+    padding: 32px;
+}
 
